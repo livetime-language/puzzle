@@ -10,7 +10,7 @@
 	"libs": [],
 	"sources": [
 		"src/",
-		"lib/core/./",
+		"lib/core/",
 		"lib/core/2D/",
 		"lib/core/play/"
 	],
